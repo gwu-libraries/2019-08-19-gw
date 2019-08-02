@@ -304,7 +304,9 @@ HANDLERS = {
 
     'venue':      (False, check_pass, 'venue name not specified'),
 
-    'address':    (False, check_pass, 'address not specified')
+    'address':    (False, check_pass, 'address not specified'),
+
+    'event_title': (False, check_pass, 'event title not specified')
 }
 
 # REQUIRED is all required categories.

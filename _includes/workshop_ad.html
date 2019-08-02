@@ -5,9 +5,11 @@
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
       {% if page.event_title %}
-      <h2>{{page.event_title}}</h2>
-      {% endif %}
+      <h2>{{page.event_title}}<br>
+      @ {{page.venue}}</h2>
+      {% else %}
       <h2>{{page.venue}}</h2>
+      {% endif %}
       <div class="row">
         <div class="col-md-6">
           <p>{{page.humandate}}</p>
