@@ -310,6 +310,7 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<!--
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
   <h3>The Bash Shell</h3>
   <p>
@@ -851,4 +852,15 @@ please preview your site before committing, and make sure to run
     </li>
   </ol>
 </div>
+-->
+
+<div id="geospatial">
+  <h3>Geospatial Carpentries software</h3>
+  <p>
+    Before the workshop, please go to the <a href="https://datacarpentry.org/geospatial-workshop/setup.html">Geospatial Carpentries workshop setup page</a> and install all of the packages there.
+  </p>
+  <p>
+    If you encounter problems or have questions, please email us.  We can set up an appointment to help if necessary.
+  </p>
+</div> {% comment %} End of 'Geospatial' section. {% endcomment %}
 {% endcomment %}
