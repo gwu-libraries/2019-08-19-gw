@@ -313,7 +313,7 @@ please preview your site before committing, and make sure to run
 <div id="geospatial">
   <h3>Geospatial Carpentries software</h3>
   <p>
-    Before the workshop, please go to the <a href="https://datacarpentry.org/geospatial-workshop/setup.html">Geospatial Carpentries workshop setup page</a> and install all of the packages there.
+    Before the workshop, please go to the <b><a href="https://datacarpentry.org/geospatial-workshop/setup.html">Geospatial Carpentries workshop setup page</a></b> and install all of the packages there.
   </p>
   <p>
     If you encounter problems or have questions, please email us.  We can set up an appointment to help if necessary.
