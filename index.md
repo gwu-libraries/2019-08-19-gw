@@ -319,4 +319,3 @@ please preview your site before committing, and make sure to run
     If you encounter problems or have questions, please email us.  We can set up an appointment to help if necessary.
   </p>
 </div> {% comment %} End of 'Geospatial' section. {% endcomment %}
-{% endcomment %}
